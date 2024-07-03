@@ -1,6 +1,6 @@
 {
-  "config_dir": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_update\\.pyupdater",
-  "filename": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_update\\.pyupdater\\config.pyu",
+  "config_dir": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_server\\.pyupdater",
+  "filename": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_server\\.pyupdater\\config.pyu",
   "count": 0,
   "app_config": {
     "APP_NAME": "ActiSync",
@@ -15,6 +15,6 @@
     "UPDATE_URLS": [
       "https://raw.githubusercontent.com/jeffTW84/ActiSync_server/updates/"
     ],
-    "DATA_DIR": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_update"
+    "DATA_DIR": "C:\\Users\\User\\Desktop\\0_non\\ActiSync_server"
   }
 }

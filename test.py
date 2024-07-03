@@ -37,3 +37,5 @@ def check_for_updates():
 
 if __name__ == '__main__':
     check_for_updates()
+    for i in range(10000):
+        print("Check")
